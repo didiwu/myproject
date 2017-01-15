@@ -1,5 +1,5 @@
 <?php 
 
-echo "Hi there from ".gethostname() 
+echo "Hi there (v2) from ".gethostname() 
 
 ?>
